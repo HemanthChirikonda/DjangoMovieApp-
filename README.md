@@ -6,7 +6,7 @@
 	<li>Initial Setup Instructions</li>
 	<li>Running Server</li>
 	<li>Initial Setup Instructions</li>
-	</ul
+	</ul>
 </div>
 
 
